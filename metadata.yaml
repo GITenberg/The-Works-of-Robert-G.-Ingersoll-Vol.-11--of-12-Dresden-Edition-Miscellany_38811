@@ -1,0 +1,51 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-11--of-12-Dresden-Edition-Miscellany_38811
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: Address on the Civil Rights Act -- Trial of C. B. Reynolds for blasphemy
+  -- God in the Constitution -- A reply to Bishop Spalding -- Crimes against criminals
+  -- A wooden god -- Some interrogation points -- Art and morality -- The divided
+  household of faith -- Why am I an agnostic? -- Huxley and agnosticism -- Ernest
+  Renan -- Tolstoï and "The Kreutzer Sonata." -- Thomas Paine -- The three philanthropists
+  -- Should the Chinese be excluded? -- A word about education -- What I want for
+  Christmas -- Fool friends -- Inspiration -- The truth of history -- How to edit
+  a Liberal paper -- Secularism -- Criticism of "Robert Elsmere," "John Ward, Preacher,"
+  and "An African Farm" -- The libel laws -- Rev. Dr. Newton's sermon on a new religion
+  -- An essay on Christmas -- Has Freethought a constructive side? -- The improved
+  man -- Eight hours must come -- The Jews -- Crumbling creeds -- Our schools -- Vivisection
+  -- The census enumerator's official catechism -- The agnostic Christmas -- Spirituality
+  -- Sumter's gun -- What infidels have done -- Cruelty in the Elmira Reformatory
+  -- Law's delay -- The bigotry of colleges -- A young man's chances to-day -- Science
+  and sentiment -- Sowing and reaping -- Should infidels send their children to Sunday
+  school? -- What would you substitute for the Bible as a moral guide? -- Governor
+  Rollins' fast-day proclamation -- A look backward and a prophecy -- Political morality
+  -- A few reasons for doubting the inspiration of the Bible.
+title: 'The Works of Robert G. Ingersoll, Vol. 11 (of 12)
+
+  Dresden Edition—Miscellany'
+url: http://www.gutenberg.org/ebooks/38811
